@@ -1,3 +1,5 @@
+//contoh kedua
+
 #include <iostream>
 using namespace std;
 
